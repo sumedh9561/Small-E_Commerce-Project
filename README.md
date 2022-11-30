@@ -1,1 +1,1 @@
-# small-ecommerce-project
+# Small E_commerce Project
